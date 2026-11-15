@@ -1,0 +1,151 @@
+platform,campaign,segment_name,share
+Facebook,11.11 Sale,Availability / city askers,0.05863192182410423
+Facebook,11.11 Sale,Delayed-order complainers,0.06080347448425624
+Facebook,11.11 Sale,Delivery-info seekers,0.09663409337676439
+Facebook,11.11 Sale,Discount seekers,0.20304017372421282
+Facebook,11.11 Sale,Fabric-quality askers,0.06080347448425624
+Facebook,11.11 Sale,Fans (praise),0.16069489685124863
+Facebook,11.11 Sale,Price-inquiry shoppers,0.18241042345276873
+Facebook,11.11 Sale,Price-sensitive critics,0.05971769815418024
+Facebook,11.11 Sale,Ready-to-buy,0.05754614549402823
+Facebook,11.11 Sale,Size and fit askers,0.05971769815418024
+Facebook,12.12 Sale,Availability / city askers,0.06320754716981132
+Facebook,12.12 Sale,Delayed-order complainers,0.05
+Facebook,12.12 Sale,Delivery-info seekers,0.11037735849056604
+Facebook,12.12 Sale,Discount seekers,0.1669811320754717
+Facebook,12.12 Sale,Fabric-quality askers,0.059433962264150944
+Facebook,12.12 Sale,Fans (praise),0.18490566037735848
+Facebook,12.12 Sale,Price-inquiry shoppers,0.19150943396226416
+Facebook,12.12 Sale,Price-sensitive critics,0.052830188679245285
+Facebook,12.12 Sale,Ready-to-buy,0.05188679245283019
+Facebook,12.12 Sale,Size and fit askers,0.06886792452830189
+Facebook,Eid Collection,Availability / city askers,0.10654562828475872
+Facebook,Eid Collection,Delayed-order complainers,0.05924510272336359
+Facebook,Eid Collection,Delivery-info seekers,0.0778786430960344
+Facebook,Eid Collection,Discount seekers,0.07596751075011944
+Facebook,Eid Collection,Fabric-quality askers,0.0630673674151935
+Facebook,Eid Collection,Fans (praise),0.26994744386048736
+Facebook,Eid Collection,Price-inquiry shoppers,0.11705685618729098
+Facebook,Eid Collection,Price-sensitive critics,0.07596751075011944
+Facebook,Eid Collection,Ready-to-buy,0.05351170568561873
+Facebook,Eid Collection,Size and fit askers,0.10081223124701386
+Facebook,Summer Lawn Sale,Availability / city askers,0.0794816414686825
+Facebook,Summer Lawn Sale,Delayed-order complainers,0.08639308855291576
+Facebook,Summer Lawn Sale,Delivery-info seekers,0.0859611231101512
+Facebook,Summer Lawn Sale,Discount seekers,0.09028077753779698
+Facebook,Summer Lawn Sale,Fabric-quality askers,0.07429805615550755
+Facebook,Summer Lawn Sale,Fans (praise),0.2159827213822894
+Facebook,Summer Lawn Sale,Price-inquiry shoppers,0.15809935205183584
+Facebook,Summer Lawn Sale,Price-sensitive critics,0.06997840172786177
+Facebook,Summer Lawn Sale,Ready-to-buy,0.06436285097192225
+Facebook,Summer Lawn Sale,Size and fit askers,0.07516198704103672
+Facebook,Winter Collection,Availability / city askers,0.08168642951251646
+Facebook,Winter Collection,Delayed-order complainers,0.08827404479578392
+Facebook,Winter Collection,Delivery-info seekers,0.08761528326745718
+Facebook,Winter Collection,Discount seekers,0.09683794466403162
+Facebook,Winter Collection,Fabric-quality askers,0.07839262187088274
+Facebook,Winter Collection,Fans (praise),0.2206851119894598
+Facebook,Winter Collection,Price-inquiry shoppers,0.15612648221343872
+Facebook,Winter Collection,Price-sensitive critics,0.05928853754940711
+Facebook,Winter Collection,Ready-to-buy,0.06719367588932806
+Facebook,Winter Collection,Size and fit askers,0.06389986824769434
+Instagram,11.11 Sale,Availability / city askers,0.07547169811320754
+Instagram,11.11 Sale,Delayed-order complainers,0.053983228511530396
+Instagram,11.11 Sale,Delivery-info seekers,0.08280922431865828
+Instagram,11.11 Sale,Discount seekers,0.159853249475891
+Instagram,11.11 Sale,Fabric-quality askers,0.059748427672955975
+Instagram,11.11 Sale,Fans (praise),0.19129979035639413
+Instagram,11.11 Sale,Price-inquiry shoppers,0.1871069182389937
+Instagram,11.11 Sale,Price-sensitive critics,0.06341719077568134
+Instagram,11.11 Sale,Ready-to-buy,0.06184486373165619
+Instagram,11.11 Sale,Size and fit askers,0.06446540880503145
+Instagram,12.12 Sale,Availability / city askers,0.0807426597582038
+Instagram,12.12 Sale,Delayed-order complainers,0.050518134715025906
+Instagram,12.12 Sale,Delivery-info seekers,0.07124352331606218
+Instagram,12.12 Sale,Discount seekers,0.19516407599309155
+Instagram,12.12 Sale,Fabric-quality askers,0.05569948186528497
+Instagram,12.12 Sale,Fans (praise),0.18048359240069084
+Instagram,12.12 Sale,Price-inquiry shoppers,0.20207253886010362
+Instagram,12.12 Sale,Price-sensitive critics,0.04231433506044905
+Instagram,12.12 Sale,Ready-to-buy,0.05872193436960276
+Instagram,12.12 Sale,Size and fit askers,0.06303972366148532
+Instagram,Eid Collection,Availability / city askers,0.14191054665930425
+Instagram,Eid Collection,Delayed-order complainers,0.05052457205963556
+Instagram,Eid Collection,Delivery-info seekers,0.057150745444505796
+Instagram,Eid Collection,Discount seekers,0.0811706239646604
+Instagram,Eid Collection,Fabric-quality askers,0.06598564329099944
+Instagram,Eid Collection,Fans (praise),0.25538376587520706
+Instagram,Eid Collection,Price-inquiry shoppers,0.13307564881281062
+Instagram,Eid Collection,Price-sensitive critics,0.05273329652125897
+Instagram,Eid Collection,Ready-to-buy,0.05687465488680287
+Instagram,Eid Collection,Size and fit askers,0.10519050248481501
+Instagram,Summer Lawn Sale,Availability / city askers,0.10165056360708534
+Instagram,Summer Lawn Sale,Delayed-order complainers,0.06219806763285024
+Instagram,Summer Lawn Sale,Delivery-info seekers,0.07286634460547504
+Instagram,Summer Lawn Sale,Discount seekers,0.0929951690821256
+Instagram,Summer Lawn Sale,Fabric-quality askers,0.07648953301127215
+Instagram,Summer Lawn Sale,Fans (praise),0.24033816425120774
+Instagram,Summer Lawn Sale,Price-inquiry shoppers,0.15458937198067632
+Instagram,Summer Lawn Sale,Price-sensitive critics,0.05958132045088567
+Instagram,Summer Lawn Sale,Ready-to-buy,0.06521739130434782
+Instagram,Summer Lawn Sale,Size and fit askers,0.07407407407407407
+Instagram,Winter Collection,Availability / city askers,0.09344894026974952
+Instagram,Winter Collection,Delayed-order complainers,0.05619781631342325
+Instagram,Winter Collection,Delivery-info seekers,0.06775850995504175
+Instagram,Winter Collection,Discount seekers,0.07964033397559409
+Instagram,Winter Collection,Fabric-quality askers,0.07803468208092486
+Instagram,Winter Collection,Fans (praise),0.22254335260115607
+Instagram,Winter Collection,Price-inquiry shoppers,0.1599229287090559
+Instagram,Winter Collection,Price-sensitive critics,0.08253050738599872
+Instagram,Winter Collection,Ready-to-buy,0.07610789980732177
+Instagram,Winter Collection,Size and fit askers,0.0838150289017341
+TikTok,11.11 Sale,Availability / city askers,0.0626865671641791
+TikTok,11.11 Sale,Delayed-order complainers,0.04477611940298507
+TikTok,11.11 Sale,Delivery-info seekers,0.0664179104477612
+TikTok,11.11 Sale,Discount seekers,0.1582089552238806
+TikTok,11.11 Sale,Fabric-quality askers,0.06492537313432836
+TikTok,11.11 Sale,Fans (praise),0.22313432835820896
+TikTok,11.11 Sale,Price-inquiry shoppers,0.1962686567164179
+TikTok,11.11 Sale,Price-sensitive critics,0.05373134328358209
+TikTok,11.11 Sale,Ready-to-buy,0.0664179104477612
+TikTok,11.11 Sale,Size and fit askers,0.06343283582089553
+TikTok,12.12 Sale,Availability / city askers,0.06378454996456413
+TikTok,12.12 Sale,Delayed-order complainers,0.04677533664068037
+TikTok,12.12 Sale,Delivery-info seekers,0.07228915662650602
+TikTok,12.12 Sale,Discount seekers,0.1693834160170092
+TikTok,12.12 Sale,Fabric-quality askers,0.058823529411764705
+TikTok,12.12 Sale,Fans (praise),0.23600283486888732
+TikTok,12.12 Sale,Price-inquiry shoppers,0.1927710843373494
+TikTok,12.12 Sale,Price-sensitive critics,0.04606661941885188
+TikTok,12.12 Sale,Ready-to-buy,0.059532246633593196
+TikTok,12.12 Sale,Size and fit askers,0.05457122608079376
+TikTok,Eid Collection,Availability / city askers,0.1096476786302272
+TikTok,Eid Collection,Delayed-order complainers,0.05597629239380968
+TikTok,Eid Collection,Delivery-info seekers,0.059269015475798485
+TikTok,Eid Collection,Discount seekers,0.07178136318735594
+TikTok,Eid Collection,Fabric-quality askers,0.057622653934804084
+TikTok,Eid Collection,Fans (praise),0.3216990451103062
+TikTok,Eid Collection,Price-inquiry shoppers,0.11261112940401712
+TikTok,Eid Collection,Price-sensitive critics,0.06354955548238393
+TikTok,Eid Collection,Ready-to-buy,0.057622653934804084
+TikTok,Eid Collection,Size and fit askers,0.09022061244649325
+TikTok,Summer Lawn Sale,Availability / city askers,0.06830601092896176
+TikTok,Summer Lawn Sale,Delayed-order complainers,0.05312689738919247
+TikTok,Summer Lawn Sale,Delivery-info seekers,0.07012750455373407
+TikTok,Summer Lawn Sale,Discount seekers,0.0947176684881603
+TikTok,Summer Lawn Sale,Fabric-quality askers,0.08136004857316333
+TikTok,Summer Lawn Sale,Fans (praise),0.27534911961141467
+TikTok,Summer Lawn Sale,Price-inquiry shoppers,0.1469338190649666
+TikTok,Summer Lawn Sale,Price-sensitive critics,0.08530661809350334
+TikTok,Summer Lawn Sale,Ready-to-buy,0.058287795992714025
+TikTok,Summer Lawn Sale,Size and fit askers,0.06648451730418943
+TikTok,Winter Collection,Availability / city askers,0.07374890254609306
+TikTok,Winter Collection,Delayed-order complainers,0.058384547848990345
+TikTok,Winter Collection,Delivery-info seekers,0.0684811237928007
+TikTok,Winter Collection,Discount seekers,0.08208955223880597
+TikTok,Winter Collection,Fabric-quality askers,0.07287093942054433
+TikTok,Winter Collection,Fans (praise),0.29631255487269537
+TikTok,Winter Collection,Price-inquiry shoppers,0.14398595258999122
+TikTok,Winter Collection,Price-sensitive critics,0.06057945566286216
+TikTok,Winter Collection,Ready-to-buy,0.07638279192273925
+TikTok,Winter Collection,Size and fit askers,0.06716417910447761
