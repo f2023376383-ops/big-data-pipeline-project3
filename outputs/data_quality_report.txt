@@ -1,0 +1,104 @@
+======================================================================
+STEP 3: DATA QUALITY REPORT (simulated data)
+======================================================================
+
+--- A. Posts table: basic checks ---
+Rows, columns: (3000, 14)
+Missing values per column:
+views                203
+injected_anomaly    2822
+Fully duplicated rows : 0
+Duplicate post_id     : 0
+Negative likes          : 0
+Negative comments_count : 0
+Negative shares         : 0
+Negative views          : 0
+likes > views (not possible): 0
+Date range of posts: 2025-01-01 to 2025-12-31
+
+Posts per platform:
+platform
+Instagram    1326
+TikTok        912
+Facebook      762
+
+Posts per campaign:
+campaign
+Summer Lawn Sale     903
+Eid Collection       732
+Winter Collection    600
+12.12 Sale           405
+11.11 Sale           360
+
+Posts per content type:
+content_type
+Reel                 718
+Product Photo        654
+Sale Announcement    456
+Influencer Post      452
+Styling Video        423
+Eid Campaign Post    297
+
+Views missing: 203 posts (6.8%). Only Facebook has missing views:
+platform
+Facebook    203
+
+--- B. Comments table: basic checks ---
+Rows, columns: (35195, 7)
+Missing values per column:
+Series([], )
+Comments whose post_id is not in posts (orphans): 0
+Posts that have no comment in the sample       : 0
+Empty comment_text                              : 0
+Repeated comment_text values: 33,362 (95%). We KEEP them: many different people really write 'Price?'.
+   Same wording from many people is a signal (demand), not a data error.
+Posts where sampled comments > comments_count: 0
+
+Comments per language:
+language_type
+Roman Urdu    19349
+English       12272
+Urdu           3574
+
+Comments per sentiment:
+sentiment
+Neutral     19500
+Positive    10736
+Negative     4959
+
+Comments per purchase_intent:
+purchase_intent
+Possible inquiry     20167
+None                 10764
+High                  2206
+Existing customer     2058
+
+Urdu-script text labelled as another language (or the reverse): 0
+
+======================================================================
+CLEANING (on copies; the raw files stay unchanged)
+======================================================================
+Posts   : 3,000 -> 3,000 rows
+Comments: 35,195 -> 35,195 rows
+New post columns   : post_month, total_engagement, engagement_rate
+New comment columns: text_clean, has_urdu_script, word_count
+Engagement rate can be calculated for 2,797 of 3,000 posts (the rest have no views).
+
+Examples of text cleaning (before -> after):
+   'Price kia ha is ka?!!'                       -> 'price kya hai is ka'
+   'Any discount on this suit? 🙏'                -> 'any discount on this suit'
+   'Delivery kitnay din lagein gay?...'          -> 'delivery kitne din lagein gay'
+   'سیل کب لگے گی؟'                              -> 'سیل کب لگے گی'
+   'Rate kya hai ismein?'                        -> 'rate kya hai ismein'
+   'I want to order this 🔥'                      -> 'i want to order this'
+
+Median likes by content type (clean data):
+content_type
+Reel                 1352.0
+Styling Video        1148.0
+Influencer Post      1064.0
+Eid Campaign Post     908.0
+Sale Announcement     844.0
+Product Photo         592.0
+
+Saved: data/clean/posts_clean.csv and data/clean/comments_clean.csv
