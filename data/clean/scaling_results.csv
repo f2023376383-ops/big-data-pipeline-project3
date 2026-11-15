@@ -1,0 +1,17 @@
+tool,step,rows,seconds
+pandas,group-by counts,35195,0.01
+scikit-learn,TF-IDF features,35195,0.27
+scikit-learn,K-Means (full),35195,1.44
+scikit-learn,MiniBatch K-Means,35195,0.07
+pandas,group-by counts,175975,0.05
+scikit-learn,TF-IDF features,175975,1.44
+scikit-learn,K-Means (full),175975,0.33
+scikit-learn,MiniBatch K-Means,175975,0.14
+pandas,group-by counts,351950,0.08
+scikit-learn,TF-IDF features,351950,2.89
+scikit-learn,K-Means (full),351950,0.57
+scikit-learn,MiniBatch K-Means,351950,0.13
+pandas,group-by counts,703900,0.15
+scikit-learn,TF-IDF features,703900,5.4
+scikit-learn,K-Means (full),703900,1.09
+scikit-learn,MiniBatch K-Means,703900,0.39
